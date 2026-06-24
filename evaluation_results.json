@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.9412,
+  "finetuned_accuracy": 0.4412,
+  "improvement": -0.5,
+  "test_set_size": 34,
+  "label_map": {
+    "monetization_critique": 0,
+    "reaction": 1,
+    "roster_strategy": 2
+  },
+  "model": "distilbert-base-uncased"
+}
